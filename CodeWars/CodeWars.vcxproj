@@ -151,6 +151,7 @@
     <ClCompile Include="CodeWars.cpp" />
     <ClCompile Include="no_space.cpp" />
     <ClCompile Include="Playing with digits.cpp" />
+    <ClCompile Include="String ends with.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
