@@ -1,15 +1,13 @@
 ﻿#include <iostream>
 #include <string>
+#include <vector>
+
 using namespace std;
-
-
 
 int main()
 {
     setlocale(LC_ALL, "Russian");
 }
-
-
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
