@@ -2,13 +2,30 @@
 #include <string>
 #include <vector>
 
+//'world' = > 'dlrow'
+//'word' = > 'drow'
+
 using namespace std;
+string reverseString(string str);
 
 int main()
 {
     setlocale(LC_ALL, "Russian");
-}
+   cout << reverseString("world");
 
+}
+string reverseString(string str)
+{
+    string result;
+    for (size_t i = str.size(); i != 0 ; --i)
+    {
+        result += str.at(i-1);
+    }
+    return result;
+   //   return std::string(str.rbegin(), str.rend());
+   //   reverse(str.begin(), str.end());
+   //   return str;
+}
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
 
