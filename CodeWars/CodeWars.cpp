@@ -1,38 +1,24 @@
 ﻿#include <iostream>
 #include <string>
 #include <vector>
+#include <algorithm>
+#include "DNA to RNA Conversion.cpp"
 
-//'world' = > 'dlrow'
-//'word' = > 'drow'
+//"GCAT"  =>  "GCAU"
+
+//Expected: equal to "UGCAU"
+// Actual: "UGCAT"
+//Expected: equal to "UGCAU"
+//Actual : "TGCAU"
 
 using namespace std;
-string reverseString(string str);
+#include <string>
+
+
 
 int main()
 {
     setlocale(LC_ALL, "Russian");
-   cout << reverseString("world");
+   //cout << DNAtoRNA("UGCAT");
 
 }
-string reverseString(string str)
-{
-    string result;
-    for (size_t i = str.size(); i != 0 ; --i)
-    {
-        result += str.at(i-1);
-    }
-    return result;
-   //   return std::string(str.rbegin(), str.rend());
-   //   reverse(str.begin(), str.end());
-   //   return str;
-}
-// Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
-// Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
-
-// Советы по началу работы 
-//   1. В окне обозревателя решений можно добавлять файлы и управлять ими.
-//   2. В окне Team Explorer можно подключиться к системе управления версиями.
-//   3. В окне "Выходные данные" можно просматривать выходные данные сборки и другие сообщения.
-//   4. В окне "Список ошибок" можно просматривать ошибки.
-//   5. Последовательно выберите пункты меню "Проект" > "Добавить новый элемент", чтобы создать файлы кода, или "Проект" > "Добавить существующий элемент", чтобы добавить в проект существующие файлы кода.
-//   6. Чтобы снова открыть этот проект позже, выберите пункты меню "Файл" > "Открыть" > "Проект" и выберите SLN-файл.
