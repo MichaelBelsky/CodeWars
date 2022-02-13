@@ -152,6 +152,7 @@
     <ClCompile Include="DNA to RNA Conversion.cpp" />
     <ClCompile Include="no_space.cpp" />
     <ClCompile Include="Playing with digits.cpp" />
+    <ClCompile Include="Reverse words.cpp" />
     <ClCompile Include="Reversed Strings.cpp" />
     <ClCompile Include="Square(n) Sum.cpp" />
     <ClCompile Include="String ends with.cpp" />

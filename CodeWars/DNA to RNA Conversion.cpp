@@ -1,7 +1,7 @@
-//#include <iostream>
-//#include <string>
-//#include <vector>
-//#include <algorithm>
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
 //
 //
 //Deoxyribonucleic acid, DNA is the primary information storage molecule in biological systems.It is composed of four
@@ -32,8 +32,18 @@ std::string DNAtoRNA(std::string dna) {
 //        dna.at(i) = 'U';
 //}
 
+        // The same as with ForEach
+    //for (char& ch : dna)
+    //{
+    //    if (ch == 'T')
+    //    {
+    //        ch = 'U';
+    //    }
+    //}
 
-    // this didn't
+
+
+    // this didn't pass the test
 //size_t start_pos = dna.find("GCAT");
 //if (start_pos != std::string::npos)
 //{
