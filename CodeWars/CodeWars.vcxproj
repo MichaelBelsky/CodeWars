@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="Abbreviate a Two Word Name.cpp" />
     <ClCompile Include="CodeWars.cpp" />
+    <ClCompile Include="Descending Order.cpp" />
     <ClCompile Include="DNA to RNA Conversion.cpp" />
     <ClCompile Include="no_space.cpp" />
     <ClCompile Include="Playing with digits.cpp" />

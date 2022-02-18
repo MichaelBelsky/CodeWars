@@ -48,5 +48,8 @@
     <ClCompile Include="Rock Paper Scissors!.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Descending Order.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

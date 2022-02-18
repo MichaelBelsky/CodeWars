@@ -2,15 +2,15 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <cinttypes>
+#include <set>
+#include <queue>
+
 
 using namespace std;
-
-
-
-#include <string>
 
 int main()
 {
    setlocale(LC_ALL, "Russian");
-   //cout << rps("rock", "scissors");
+
 }
