@@ -158,6 +158,7 @@
     <ClCompile Include="Reverse words.cpp" />
     <ClCompile Include="Reversed Strings.cpp" />
     <ClCompile Include="Rock Paper Scissors!.cpp" />
+    <ClCompile Include="Find Maximum and Minimum Values of a List.cpp" />
     <ClCompile Include="Square(n) Sum.cpp" />
     <ClCompile Include="String ends with.cpp" />
     <ClCompile Include="Two to One.cpp" />
