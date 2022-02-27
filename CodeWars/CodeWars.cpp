@@ -8,14 +8,9 @@
 
 using namespace std;
 
-
-
 int main()
 {
-   /* for (auto i: wave("two words"))
-    {
-        cout << i << endl;
-    }*/
+
     
     setlocale(LC_ALL, "Russian");
 }
