@@ -154,6 +154,7 @@
     <ClCompile Include="Count the Digit.cpp" />
     <ClCompile Include="Descending Order.cpp" />
     <ClCompile Include="DNA to RNA Conversion.cpp" />
+    <ClCompile Include="MakeUpperCase.cpp" />
     <ClCompile Include="Mexican Wave.cpp" />
     <ClCompile Include="no_space.cpp" />
     <ClCompile Include="Playing with digits.cpp" />
