@@ -154,6 +154,7 @@
     <ClCompile Include="Count the Digit.cpp" />
     <ClCompile Include="Descending Order.cpp" />
     <ClCompile Include="DNA to RNA Conversion.cpp" />
+    <ClCompile Include="Invert values.cpp" />
     <ClCompile Include="MakeUpperCase.cpp" />
     <ClCompile Include="Mexican Wave.cpp" />
     <ClCompile Include="no_space.cpp" />
@@ -166,6 +167,7 @@
     <ClCompile Include="Square(n) Sum.cpp" />
     <ClCompile Include="String ends with.cpp" />
     <ClCompile Include="Sum of odd numbers.cpp" />
+    <ClCompile Include="Trafic Light.cpp" />
     <ClCompile Include="Two to One.cpp" />
     <ClCompile Include="Who likes it.cpp" />
   </ItemGroup>
