@@ -152,6 +152,7 @@
     <ClCompile Include="Convert a string to an array.cpp" />
     <ClCompile Include="Count by X.cpp" />
     <ClCompile Include="Count the Digit.cpp" />
+    <ClCompile Include="Count the divisors of a number.cpp" />
     <ClCompile Include="Descending Order.cpp" />
     <ClCompile Include="DNA to RNA Conversion.cpp" />
     <ClCompile Include="Invert values.cpp" />
