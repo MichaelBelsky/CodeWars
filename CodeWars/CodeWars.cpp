@@ -11,5 +11,6 @@ using namespace std;
 
 int main()
 {   
-   setlocale(LC_ALL, "Russian");
+   // cout << findOdd5({ 1,1,2,-2,5,2,4,4,-1,-2,5,-1,5});
+    setlocale(LC_ALL, "Russian");
 }
