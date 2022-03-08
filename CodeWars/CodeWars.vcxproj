@@ -161,6 +161,7 @@
     <ClCompile Include="Mexican Wave.cpp" />
     <ClCompile Include="no_space.cpp" />
     <ClCompile Include="Playing with digits.cpp" />
+    <ClCompile Include="Remove exclamation marks.cpp" />
     <ClCompile Include="Remove First and Last Character.cpp" />
     <ClCompile Include="Reverse words.cpp" />
     <ClCompile Include="Reversed Strings.cpp" />

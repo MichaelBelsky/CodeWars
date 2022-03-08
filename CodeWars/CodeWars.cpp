@@ -11,6 +11,6 @@ using namespace std;
 
 int main()
 {   
-   // cout << findOdd5({ 1,1,2,-2,5,2,4,4,-1,-2,5,-1,5});
+    //cout << removeExclamationMarks("Hello World!!!!!asdad!!!!") ;
     setlocale(LC_ALL, "Russian");
 }
